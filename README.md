@@ -1,2 +1,3 @@
 # hello-world
 dipping my toes in github
+Imagine writing you own version manager from scratch...
